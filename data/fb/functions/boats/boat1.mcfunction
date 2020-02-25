@@ -1,0 +1,2 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:["fb_flyingBoat"], Passengers:[{id:boat, Tags:["fb_flyingBoat_passenger"], Invulnerable:1, Type:spruce}], CustomName:"{\"text\":\"FlyingBoat\"}", CustomNameVisible:1, Small:1, Invisible:1, Invulnerable:1}
+kill @e[nbt={Item: {tag: {Tags: ["fb_v1"]}}}, distance=..1]

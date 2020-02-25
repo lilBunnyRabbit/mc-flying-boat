@@ -1,0 +1,2 @@
+give @s minecraft:snowball{Tags:["fb_v1"], display:{Name:"{\"text\":\"Flying Boat V1\",\"color\":\"green\"}",Lore:["{\"text\":\"FB Datapack\",\"color\":\"dark_blue\"}"]}, Enchantments:[{id:luck, lvl:1}]} 1
+give @s minecraft:snowball{Tags:["fb_v2"], display:{Name:"{\"text\":\"Flying Boat V2\",\"color\":\"green\"}",Lore:["{\"text\":\"FB Datapack\",\"color\":\"dark_blue\"}"]}, Enchantments:[{id:luck, lvl:1}]} 1

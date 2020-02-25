@@ -1,0 +1,3 @@
+execute as @s at @s store result entity @e[type=minecraft:armor_stand,tag=fb_flyingBoat,limit=1,sort=nearest] Motion[0] double 0.005 run scoreboard players get @s fb_x
+execute as @s at @s store result entity @e[type=minecraft:armor_stand,tag=fb_flyingBoat,limit=1,sort=nearest] Motion[1] double 0.005 run scoreboard players get @s fb_y
+execute as @s at @s store result entity @e[type=minecraft:armor_stand,tag=fb_flyingBoat,limit=1,sort=nearest] Motion[2] double 0.005 run scoreboard players get @s fb_z
